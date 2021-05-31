@@ -11,7 +11,7 @@ This blog is an open notebook, a messy place for bricolage, in my attempts to wo
 This deserves some more detailed elaboration, especially given how contested the term *communism* is, and to illustrate somewhat the method of bricolage I'll be doing that by offering up some essential fragments we'll be drawing on.
 
 ## Lines of Flight
-These texts provide a jumping off point for a project of liberation, founded on the idea that my freedom is inextricably bound up with yours, ultimately without end, but immediately tasked with overcoming capitalist alienation and for the first time making our own history.  
+These texts provide a jumping off point for a project of liberation, founded on the idea that my freedom is inextricably bound up with yours, ultimately without end, but immediately tasked with overcoming capitalist alienation and for the first time making our own history. 
 
 - [The Revolutionary Wager ](https://sites.google.com/site/vagabondtheorist/life-as-totality/the-revolutionary-wager)
     - This provides some sense of subjective motivation and stakes. As a text it is mired in its own time and subcultural milieu but if nothing else read the concluding paragraph.
@@ -24,8 +24,18 @@ These texts provide a jumping off point for a project of liberation, founded on 
     - This provides two vital insights. First, that there is no fixed *revolutionary method* but rather specific historical conditions create specific openings for struggle. Second that any specific period of struggle demands a new specific form of organisation adequate to the problems thrown up. Therefore what we need is an ecology of organisations, capable of exploring the organisation-space and coalescing and dispersing centres of power (world historical parties). 
 
 ## Spheres of Influence
-Here are a few important ongoing influences that will continue to provide input going forward.
+Here are a few important ongoing influences that will continue to provide input going forward (basically an old-school blog roll).
 
-- c4ss
-- viewpoint
-and so on
+- [Viewpoint](https://viewpointmag.com/)
+- [C4SS](http://c4ss.org/)
+- [New Socialist](https://newsocialist.org.uk/transmissions/)
+- [Logic](https://logicmag.io/)
+- [Communists in situ](https://cominsitu.wordpress.com/)
+- [The Baffler](https://thebaffler.com/)
+- [Low-tech Mag](https://www.lowtechmagazine.com/)
+- [No-tech Mag](https://www.notechmagazine.com/)
+- [ROAR Mag](https://roarmag.org/)
+- [Pluralistic](https://pluralistic.net/)
+- [Stratechery](https://stratechery.com/)
+- [Ribbonfarm](https://www.ribbonfarm.com/)
+- [RAND](https://www.rand.org/)
