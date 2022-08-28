@@ -21,7 +21,7 @@ These texts provide a jumping off point for a project of liberation, founded on 
     - In general, the anarchist and marxist spheres will tend to provide fodder for each of these tools respectively. We're not interested fidelity to *real xyz* rather in what can be salvaged and put to use for human liberation.
     - Further readings - [Between Marx, Marxism, and Marxisms](https://viewpointmag.com/2013/10/21/between-marx-marxism-and-marxisms-ways-of-reading-marxs-theory/)
 - [All Tomorrows Parties](https://viewpointmag.com/2012/05/23/all-tomorrows-parties-a-reply-to-critics/)
-    - This provides two vital insights. First, that there is no fixed *revolutionary method* but rather specific historical conditions create specific openings for struggle. Second that any specific period of struggle demands a new specific form of organisation adequate to the problems thrown up. Therefore what we need is an ecology of organisations, capable of exploring the organisation-space and coalescing and dispersing centres of power (world historical parties). 
+    - This provides two vital insights. First, that there is no fixed *revolutionary method* but rather specific historical conditions create specific openings for struggle. Second that any specific period of struggle demands a new specific form of organisation adequate to the problems thrown up. Therefore what we need is an ecology of organisations, capable of exploring the organisation-space and coalescing and dispersing centres of power (world historical parties).  
 
 ## Spheres of Influence
 Here are a few important ongoing influences that will continue to provide input going forward (basically an old-school blog roll).

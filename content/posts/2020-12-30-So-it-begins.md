@@ -8,4 +8,4 @@ This is my third attempt at a blog. All preceding attempts failed very shortly a
 
 Obviously on one level I'm jumping on the same text-web revival bandwagon as all these new substack newsletter writers. However, I'm not here to run a grift. My motivations are esoterically personal and straightforwardly political. 
 
-This blog is an open notebook, a messy place for bricolage, in my attempts to work out a communist project fit for the 21st century. 
+This blog is an open notebook, a messy place for bricolage, in my attempts to work out a communist project fit for the 21st century.  
