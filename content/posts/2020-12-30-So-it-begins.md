@@ -2,7 +2,8 @@
 layout: post
 title:  "So it begins"
 date:   2020-12-30
-categories: intro
+tags:
+  - intro
 ---
 This is my third attempt at a blog. All preceding attempts failed very shortly after their inception, despite what in retrospect were much better conditions for blogging in general. Yet here I am again, repeating the same action and expecting a different result. Such foolishness demands an explanation.
 

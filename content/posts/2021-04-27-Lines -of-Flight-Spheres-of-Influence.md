@@ -2,7 +2,9 @@
 layout: post
 title:  "Lines of Flight and Spheres of Influence"
 date:   2021-04-27 
-categories: intro
+tags: 
+    - links
+    - intro
 ---
 So last time I laid out something of an elevator pitch for this blog:
 ```
