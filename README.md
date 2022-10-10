@@ -4,3 +4,9 @@
 A blog about the emerging future.
 
 Updated on a when-I-feel-like-it basis
+
+## Stack
+
+- Hugo
+- Xmin theme 
+- Netlify 

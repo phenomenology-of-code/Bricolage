@@ -36,7 +36,7 @@ Here are a few important ongoing influences that will continue to provide input 
 - [The Baffler](https://thebaffler.com/)
 - [Low-tech Mag](https://www.lowtechmagazine.com/)
 - [No-tech Mag](https://www.notechmagazine.com/)
-- [ROAR Mag](https://roarmag.org/)
+- [ROAR Mag](https://roarmag.org/) (defunct)
 - [Pluralistic](https://pluralistic.net/)
 - [Stratechery](https://stratechery.com/)
 - [Ribbonfarm](https://www.ribbonfarm.com/)
