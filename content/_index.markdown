@@ -1,9 +1,12 @@
 ---
-layout: page
-title: About this blog
-permalink: /about/
+title: Home
 ---
+# Digital Bricolage
 
-## This is a placeholder explanation
+>   **Bricolage**
+>
+>   Noun: Something made or put together using whatever materials happen to be available.
 
 This blog is a public facing component of my digital garden project, it covers a broad range of topics but all orientated to navigating a path out of capitalism in the 21st century.
+
+## Posts
