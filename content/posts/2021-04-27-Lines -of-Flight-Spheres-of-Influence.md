@@ -7,9 +7,9 @@ tags:
     - intro
 ---
 So last time I laid out something of an elevator pitch for this blog:
-```
-This blog is an open notebook, a messy place for bricolage, in my attempts to work out a communist project fit for the 21st century.
-```
+
+> This blog is an open notebook, a messy place for bricolage, in my attempts to work out a communist project fit for the 21st century.
+
 This deserves some more detailed elaboration, especially given how contested the term *communism* is, and to illustrate somewhat the method of bricolage I'll be doing that by offering up some essential fragments we'll be drawing on.
 
 ## Lines of Flight
