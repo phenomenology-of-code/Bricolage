@@ -1,7 +1,9 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Digital Bricolage"
-theme: "my-xmin"
+title: "A minimal Hugo website"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
 
@@ -17,19 +19,22 @@ menu:
     - name: About
       url: "about/"
       weight: 2
+    - name: Categories
+      url: "categories/"
+      weight: 3
     - name: Tags
       url: "tags/"
-      weight: 3
+      weight: 4
     - name: Subscribe
       url: "index.xml"
 
 params:
-  description: "Bricolage, noun: Something made or put together using whatever materials happen to be available"
-  footer: "[Github](https://github.com/phenomenology-of-code) |"
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
 
 markup:
   highlight:
-    codeFences: true
+    codeFences: false
   goldmark:
     renderer:
       unsafe: true
